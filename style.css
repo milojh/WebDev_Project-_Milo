@@ -1,0 +1,73 @@
+.page1 {
+  background-image: linear-gradient(to top,white, grey);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.page3 {
+  background-image: linear-gradient(to top,rgb(240, 244, 138), rgb(247, 94, 94));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.page2 {
+  background-image: linear-gradient(to top,white, grey);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+li {
+    color:black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1 {
+    color:purple;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color:purple;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    color:purple;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color: black;
+}
+
+h4 {
+    color:purple;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.img_page1 {
+  border: 10px solid transparent;
+  padding: 15px;
+}
+
+hr {
+    margin-top: 320px;
+  border-top: 5px solid black;
+  border-radius: 5px;
+}
+
+.about_paragraph {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.isometra-regular {
+  font-family: "Isometra", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.address {
+    color:blue;
+}
