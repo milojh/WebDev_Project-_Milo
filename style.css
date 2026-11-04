@@ -5,10 +5,13 @@
 }
 
 .page3 {
-  background-image: linear-gradient(to top,rgb(240, 244, 138), rgb(247, 94, 94));
+  background-image: url("japan_mountain.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: cover;
+  min-height: 100vh;
 }
+
 
 .page2 {
   background-image: linear-gradient(to top,white, grey);
