@@ -75,3 +75,42 @@ hr {
 .address {
     color:blue;
 }
+
+#BackToShopping:hover {
+  color: darkorange;
+  font-size: 20px;
+}
+
+.logo {
+  animation: spectrumShift 8s linear infinite;
+  font-size: 60px;
+}
+
+@keyframes spectrumShift {
+  0%   {color: #ff4a5a; }
+  25%  {color: #ffd15c; }
+  50%  {color: #48dbfb; }
+  75%  {color: #1dd1a1; }
+  100% {color: #ff4a5a; }
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.container img {
+  background-color: #f1f1f1;
+  margin: 10px;
+  font-size: 24px;
+  width: 150px;
+  height: 150px;
+}
+
+@media (max-width: 600px) {
+    .page3 { background-image: url(sunset.jpg);}
+}
+
+@media (max-width: 1024px) {
+    .page3 { background-image: url(sunset.jpg);}
+}
